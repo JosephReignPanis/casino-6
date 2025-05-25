@@ -17,7 +17,7 @@ export default function BottomSection() {
           <Link href={"/categories/sports"}>
             <Image
               src={"/banner_games/banner_g1.png"}
-              width={200}
+              width={250}
               height={200}
               alt="banner"
               className="w-full"
@@ -26,7 +26,7 @@ export default function BottomSection() {
           <Link href={"/categories/sportscross"}>
             <Image
               src={"/banner_games/banner_g2.png"}
-              width={200}
+              width={250}
               height={200}
               alt="banner"
               className="w-full"
@@ -35,7 +35,7 @@ export default function BottomSection() {
           <Link href={"/categories/minigame"}>
             <Image
               src={"/banner_games/banner_g3.png"}
-              width={200}
+              width={250}
               height={200}
               alt="banner"
               className="w-full"
@@ -44,7 +44,7 @@ export default function BottomSection() {
           <Link href={"/categories/slot"}>
             <Image
               src={"/banner_games/banner_g4.png"}
-              width={200}
+              width={250}
               height={200}
               alt="banner"
               className="w-full"
